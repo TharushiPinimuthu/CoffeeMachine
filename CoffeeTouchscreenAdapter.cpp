@@ -1,0 +1,3 @@
+class CoffeeTouchscreenAdapter : public CoffeeMachineInterface{
+    
+}
